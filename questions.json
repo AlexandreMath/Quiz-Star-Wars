@@ -1,0 +1,13 @@
+[{"question" : "De quel type est le chasseur de Luke Skywalker dans Un Nouvelle Espoir?",
+  "choix" : "1.X-Wing, 2.Y-Wing",
+  "reponse" : "1"
+},
+ {"question" : "De quelle planète est originaire la Princesse Leia ",
+   "choix" : "1.Tatooine, 2.Alderaan",
+  "reponse" : "2"
+},
+ {"question" : "Quel est le nom du Super Destroyer de Darth Vador",
+   "choix" : "1.Executor, 2.Devastator",
+   "reponse" : "1"
+ }
+]
